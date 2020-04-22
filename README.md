@@ -1,3 +1,6 @@
+# features of the fork:
+* Compatible with phpBB 3.3.0+ (`user_email_hash` column got removed)
+
 # phpbb-oidc
 phpBB OpenID Connect plugin, based on [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP).
 
